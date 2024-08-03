@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodigoNo1/CodigoNo1.iml" filepath="$PROJECT_DIR$/CodigoNo1/CodigoNo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodigoNo2/CodigoNo2.iml" filepath="$PROJECT_DIR$/CodigoNo2/CodigoNo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodigoNo3/CodigoNo3.iml" filepath="$PROJECT_DIR$/CodigoNo3/CodigoNo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodigoNo4/CodigoNo4.iml" filepath="$PROJECT_DIR$/CodigoNo4/CodigoNo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodigoNo5/CodigoNo5.iml" filepath="$PROJECT_DIR$/CodigoNo5/CodigoNo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sistemas Operativos.iml" filepath="$PROJECT_DIR$/.idea/Sistemas Operativos.iml" />
+    </modules>
+  </component>
+</project>
